@@ -118,6 +118,6 @@ marketing measurement [Source code and data]. GitHub. https://github.com/[USERNA
 Code: [MIT](LICENSE). The coding matrix (`data/`) and the figures (`FIGURES/`) may be reused with
 attribution to the article (CC BY 4.0).
 
-## Contact
+## For future collaboration contact me
 
-[AUTHOR NAME] — [email address]
+[Ahmad EL OUALFI,PhD] — [eloualfi.ahmad@ucd.ac.ma]
