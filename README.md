@@ -120,4 +120,4 @@ attribution to the article (CC BY 4.0).
 
 ## For future collaboration contact me
 
-[Ahmad EL OUALFI,PhD] — [eloualfi.ahmad@ucd.ac.ma]
+Ahmad EL OUALFI,PhD — eloualfi.ahmad@ucd.ac.ma
