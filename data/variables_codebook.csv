@@ -1,0 +1,18 @@
+code,dimension,variable,included_in_MCA
+P1,Performance indicators,CTR (click-through rate),yes
+P2,Performance indicators,Conversion rate,yes
+P3,Performance indicators,ROI / ROAS,yes
+P4,Performance indicators,CLV (customer lifetime value),yes
+T1,Analytical techniques,Machine learning,yes
+T2,Analytical techniques,Predictive analytics,yes
+T3,Analytical techniques,Deep learning,yes
+T4,Analytical techniques,NLP,yes
+T5,Analytical techniques,Recommendation systems,yes
+C1,Measurement challenges,Data quality,yes
+C2,Measurement challenges,Privacy,yes
+C3,Measurement challenges,Algorithmic bias,yes
+C4,Measurement challenges,Explainability,yes
+C5,Measurement challenges,Model drift,no (not identified in any of the 41 studies)
+C6,Measurement challenges,Data silos,yes
+C7,Measurement challenges,Attribution complexity,yes
+C8,Measurement challenges,Cross-channel tracking,yes
