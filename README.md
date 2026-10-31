@@ -108,10 +108,6 @@ Note that in Figure 9 the tree is drawn before k-means consolidation; the colour
 
 If you use this code or data, please cite the article above and, if applicable, this repository:
 
-```
-[AUTHOR NAME(S)] (2026). MCA and HCPC of a systematic literature review on data science for
-marketing measurement [Source code and data]. GitHub. https://github.com/[USERNAME]/[REPOSITORY]
-```
 
 ## Licence
 
